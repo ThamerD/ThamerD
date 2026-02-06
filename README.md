@@ -1,4 +1,4 @@
-# Hi, I’m Thamer (pronounced **Th-** as in *thanks*, **-amer** as in *hammer*)!
+# Hi, I’m Thamer!
 
 I’m an AI/ML engineer based in Vancouver with a background in software engineering and data science. I enjoy building practical machine learning systems, AI agents, and end-to-end products that solve real problems.
 
@@ -23,17 +23,17 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
 
 ### Infrastructure & Deployment
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/-ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### MLOps & Workflow Automation
 ![SageMaker](https://img.shields.io/badge/-SageMaker-FF9900?style=flat)
