@@ -53,16 +53,16 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 
 ## 🚀 Projects
 
-- **AI Applicant Ranking System** — ML dashboard with XGBoost model and GPT-4 integration.
-- **Cat Breed CNN Classifier** — PyTorch CNN for image classification.
-- **Image Captioning** — Neural network feature extraction with a custom language model.
-- **JappTracker** — Agentic AI system for automatic job application tracking.
-- **num_theory** — High-performance Python number theory package.
-- **Challenge the Globe** — Cofounded a video challenge startup.
-- **20QsAI** — Reverse 20-questions AI chatbot.
+- [**AI Applicant Ranking System**](https://thamerd.github.io/Thamers_ML_Blog/posts/final_report/final_report.html) — ML dashboard with XGBoost model and GPT-4 integration.
+- [**Cat Breed CNN Classifier**](https://github.com/ThamerD/cat_breed_cnn_classifier) — PyTorch CNN for image classification.
+- [**Image Captioning**](https://thamerd.github.io/Thamers_ML_Blog/posts/transformer_captioning/transformer_captioning.html) — Neural network feature extraction with a custom language model.
+- [**JappTracker**](https://github.com/ThamerD/JappTracker) — Agentic AI system for automatic job application tracking.
+- [**num_theory**](https://num-theory.readthedocs.io/en/latest/) — High-performance Python number theory package.
+- [**Challenge the Globe**](https://www.youtube.com/shorts/5h7XMsna3z4) — Cofounded a video challenge startup.
+- [**20QsAI**](https://github.com/ThamerD/20-questions-ai-game) — Reverse 20-questions AI chatbot.
 
 ## 📫 Contact
 
 - Vancouver, BC  
 - ThamerMSD@gmail.com  
-- [LinkeedIn](https://www.linkedin.com/in/thamer-aldawood/)
+- [LinkedIn](https://www.linkedin.com/in/thamer-aldawood/)
