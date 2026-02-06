@@ -9,7 +9,6 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
 
 ### Machine Learning & AI
@@ -22,17 +21,6 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 ![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat)
 ![RAG](https://img.shields.io/badge/-RAG-2E8B57?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
-
-### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat)
-![Altair](https://img.shields.io/badge/-Altair-1D76DB?style=flat)
-![ggplot2](https://img.shields.io/badge/-ggplot2-665C87?style=flat)
-![Dash](https://img.shields.io/badge/-Dash-000000?style=flat&logo=plotly&logoColor=white)
-![Shiny](https://img.shields.io/badge/-Shiny-276DC3?style=flat&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ### Infrastructure & Deployment
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -52,6 +40,16 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A66C2?style=flat)
+
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Altair](https://img.shields.io/badge/-Altair-1D76DB?style=flat)
+![ggplot2](https://img.shields.io/badge/-ggplot2-665C87?style=flat)
+![Dash](https://img.shields.io/badge/-Dash-000000?style=flat&logo=plotly&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-276DC3?style=flat&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ## 🚀 Projects
 
