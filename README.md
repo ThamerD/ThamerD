@@ -60,6 +60,7 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 - [**num_theory**](https://num-theory.readthedocs.io/en/latest/) — High-performance Python number theory package.
 - [**Challenge the Globe**](https://www.youtube.com/shorts/5h7XMsna3z4) — Cofounded a video challenge startup.
 - [**20QsAI**](https://github.com/ThamerD/20-questions-ai-game) — Reverse 20-questions AI chatbot.
+- [**Screenshotle**](https://screenshotle.onrender.com) - Game where you guess the videogame based on its screenhots. Uses AI to evaluate your guess and give hints.
 
 ## 📫 Contact
 
