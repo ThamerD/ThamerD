@@ -54,12 +54,12 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 ## 🚀 Projects
 
 - [**AI Applicant Ranking System**](https://thamerd.github.io/Thamers_ML_Blog/posts/final_report/final_report.html) — ML dashboard with XGBoost model and GPT-4 integration.
-- [**Cat Breed CNN Classifier**](https://github.com/ThamerD/cat_breed_cnn_classifier) — PyTorch CNN for image classification.
-- [**Image Captioning**](https://thamerd.github.io/Thamers_ML_Blog/posts/transformer_captioning/transformer_captioning.html) — Neural network feature extraction with a custom language model.
-- [**JappTracker**](https://github.com/ThamerD/JappTracker) — Agentic AI system for automatic job application tracking.
-- [**num_theory**](https://num-theory.readthedocs.io/en/latest/) — High-performance Python number theory package.
+- [**Cat Breed CNN Classifier**](https://github.com/ThamerD/cat_breed_cnn_classifier) — PyTorch CNN model that classifies cat breeds based on their images.
+- [**Image Captioning**](https://thamerd.github.io/Thamers_ML_Blog/posts/transformer_captioning/transformer_captioning.html) — Neural network feature extraction with a custom language model to generate accessibility captions for images.
+- [**JappTracker**](https://github.com/ThamerD/JappTracker) — Agentic AI system for automatic job application tracking and analysis.
+- [**num_theory**](https://num-theory.readthedocs.io/en/latest/) — High-performance Python utility functions for various Project Euler and num theory problems.
 - [**Challenge the Globe**](https://www.youtube.com/shorts/5h7XMsna3z4) — Cofounded a video challenge startup.
-- [**20QsAI**](https://github.com/ThamerD/20-questions-ai-game) — Reverse 20-questions AI chatbot.
+- [**20QsAI**](https://github.com/ThamerD/20-questions-ai-game) — Reverse 20-questions gaem with an AI chatbot.
 - [**Screenshotle**](https://screenshotle.onrender.com) - Game where you guess the videogame based on its screenhots. Uses AI to evaluate your guess and give hints.
 
 ## 📫 Contact
