@@ -61,7 +61,6 @@ I’m an AI/ML engineer based in Vancouver with a background in software enginee
 - [**Challenge the Globe**](https://www.youtube.com/shorts/5h7XMsna3z4) — Cofounded a video challenge startup.
 - [**20QsAI**](https://github.com/ThamerD/20-questions-ai-game) — Reverse 20-questions gaem with an AI chatbot.
 - [**Screenshotle**](https://screenshotle.onrender.com) - Game where you guess the videogame based on its screenhots. Uses AI to evaluate your guess and give hints.
-- [**Friend-Ship**](https://github.com/ThamerD/Friend-Ship) - Make deeper connections with others while maintaining dignity and anonymity. 
 
 ## 📫 Contact
 
